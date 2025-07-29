@@ -56,3 +56,12 @@ header{
 .nav-links{
     text-transform: uppercase;
 }
+
+.img1{
+    width: 815px;
+    height: 612px;
+    border-radius: 36px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}

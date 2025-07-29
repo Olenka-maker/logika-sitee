@@ -61,6 +61,8 @@ header{
     width: 815px;
     height: 612px;
     border-radius: 36px;
+}
+.main-photo{
     display: flex;
     justify-content: center;
     position: absolute;

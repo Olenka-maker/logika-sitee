@@ -195,3 +195,36 @@ a{
     height: 2px;
     width: 35px;
 }
+
+.big-div{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 500px;
+   
+}
+
+.big-sushi{
+    margin-left: 35px;
+    width: 480px;
+    height: 657px;
+    border:1px solid #3F3730;
+
+}
+
+.sushi1{
+    margin-top: 55px;
+}
+
+.buy{
+    width: 430px;
+    background-color: #4B4038;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    letter-spacing: 2px;
+    padding: 12px;
+    color: #FFA75F;
+}

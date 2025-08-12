@@ -126,6 +126,14 @@ a{
     width: 190px;
     text-align: center;
 }
+.button1:focus {
+    transition: 0.3s ease;
+    transform: scale(1.5);
+}
+.button1:hover{
+    background-color: #3b3028;
+    transition: 0.3s ease;
+    }
 
 .div-hurman, .div-buy{
     display: flex;
@@ -228,7 +236,15 @@ a{
     padding: 12px;
     color: #FFA75F;
     margin-top: 88px;
-    
+}
+
+.buy:hover{
+    background-color: #3b3028;
+    transition: 0.3s ease;
+}
+.buy:focus {
+    transition: 0.3s ease;
+    transform: scale(1.5);
 }
 
 #buy{

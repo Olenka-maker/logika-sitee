@@ -127,7 +127,7 @@ a{
     text-align: center;
 }
 
-.div-hurman{
+.div-hurman, .div-buy{
     display: flex;
     justify-content: center;
 }
@@ -217,7 +217,7 @@ a{
 }
 
 .buy{
-    width: 430px;
+    width: 400px;
     background-color: #4B4038;
     text-align: center;
     border-radius: 7px;
@@ -227,4 +227,27 @@ a{
     letter-spacing: 2px;
     padding: 12px;
     color: #FFA75F;
+    margin-top: 88px;
+    
+}
+
+#buy{
+    margin-top: 115px;
+}
+
+.div-sale{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sale{
+    width: 90px;
+    background-color: #4B4038;
+    padding: 7px;
+    border-radius: 7px;
+    font-size: 16px;
+    color: #FFA75F;
+    line-height: 28px;
+    text-align: center;
+    margin-right: 30px;
 }
